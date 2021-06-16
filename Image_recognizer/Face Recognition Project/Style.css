@@ -1,0 +1,16 @@
+.heading{
+    font-size: 25px;
+    width: 300px;
+}
+body{
+    background-color: darkblue;
+    color: lightblue;
+}
+.nameofobjects{
+    font-size: 20px;
+}
+#camera{
+    border:5px dashed black;
+    width: 350px;
+    height: 350px;
+}
